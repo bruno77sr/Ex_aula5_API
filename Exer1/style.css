@@ -1,0 +1,28 @@
+figure{
+    border: 2px solid  black;
+}
+h1{
+    background-color: rgb(3, 3, 194);
+    height: 100px;
+    width: auto;
+    font-size: 50px;
+    color: white;
+    text-align: left;
+}
+main{
+    display: grid;
+    place-items: center;
+    margin: 0;
+}
+p{
+    text-align: center;
+
+}
+footer{
+    background-color: rgb(3, 3, 194);
+    height: 100px;
+    width: auto;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
